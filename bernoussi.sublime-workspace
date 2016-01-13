@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"currentLang"
+			],
+			[
+				"Lang",
+				"language-selector"
+			],
+			[
+				"Informa",
+				"informatique"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"esp",
+				"espaces"
+			],
+			[
+				"achat",
+				"achats"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"promi",
+				"promotion"
+			],
+			[
+				"Appliq",
+				"appliquer"
+			],
+			[
+				"su",
+				"sujet"
+			],
+			[
+				"c",
+				"couriel"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"s",
+				"style	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "optimisation_de_la_fonction_juridique.html",
+			"settings":
+			{
+				"buffer_size": 9789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "presentation.html",
+			"settings":
+			{
+				"buffer_size": 11530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conformite_audit_juridique.html",
+			"settings":
+			{
+				"buffer_size": 10648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conseil_juridique.html",
+			"settings":
+			{
+				"buffer_size": 13790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 12767,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "corporate_actes_juridiques.html",
+			"settings":
+			{
+				"buffer_size": 10989,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "droit_du_travail.html",
+			"settings":
+			{
+				"buffer_size": 10664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "formations.html",
+			"settings":
+			{
+				"buffer_size": 10738,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "sshtml",
+		"selected_items":
+		[
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mehdi/Office/bernoussi/boot",
+		"/home/mehdi/Office/bernoussi/boot/css"
+	],
+	"file_history":
+	[
+		"/home/mehdi/Office/bernoussi/boot/index.html",
+		"/home/mehdi/Office/bernoussi/boot/corporate_actes_juridiques.html",
+		"/home/mehdi/Office/bernoussi/boot/presentation.html",
+		"/home/mehdi/Office/bernoussi/boot/droit_du_travail.html",
+		"/home/mehdi/Office/bernoussi/boot/formations.html",
+		"/home/mehdi/Office/bernoussi/boot/conformite_audit_juridique.html",
+		"/home/mehdi/Office/bernoussi/boot/contact.html",
+		"/home/mehdi/Office/bernoussi/boot/send.php",
+		"/home/mehdi/Office/bernoussi/boot/confirmation_contact.html",
+		"/home/mehdi/Office/bernoussi/boot/conseil_juridique.html",
+		"/home/mehdi/Office/bernoussi/boot/optimisation_de_la_fonction_juridique.html",
+		"/var/www/html/marostack/components/widgets/views/languageSelector.php",
+		"/var/www/html/marostack/views/site/contact.php",
+		"/var/www/html/marostack/views/layouts/main.php",
+		"/var/www/html/marostack/config/params.php",
+		"/var/www/html/marostack/messages/FR/app.php",
+		"/var/www/html/marostack/messages/FR/yii.php",
+		"/var/www/html/marostack/models/ContactForm.php",
+		"/var/www/html/marostack/config/i18n.php",
+		"/var/www/html/marostack/config/web.php",
+		"/var/www/html/marostack/messages/AR/app.php",
+		"/var/www/html/marostack/messages/AR/yii.php",
+		"/var/www/html/marostack/messages/EN/app.php",
+		"/var/www/html/marostack/components/widgets/LanguageSelector.php",
+		"/var/www/html/marostack/controllers/SiteController.php",
+		"/var/www/html/marostack/components/widgets/TranslationEventHandler.php",
+		"/var/www/html/marostack/components/LanguageHandler.php",
+		"/var/www/html/marostack/components/TranslationEventHandler.php",
+		"/var/www/html/marostack/components/widgets/LanguageHandler.php",
+		"/var/www/html/marostack/messages/config.php",
+		"/var/www/html/marostack/messages/fr-Fr/yii.php",
+		"/var/www/html/marostack/views/site/index.php",
+		"/var/www/html/marostack/web/css/theme-bootstrap.min.css",
+		"/var/www/html/marostack/assets/AppAsset.php",
+		"/var/www/html/marostack/messages/en-EN/yii.php",
+		"/var/www/html/marostack/controllers/Controller.php",
+		"/var/www/html/marostack/web/index.php",
+		"/var/www/html/marostack/messages/fr-Fr/messages.po",
+		"/var/www/html/marostack/views/site/apropos.php",
+		"/var/www/html/marostack/common/messages/i18n.php",
+		"/var/www/html/marostack/config/de/yii.php",
+		"/var/www/html/marostack/message/fr/app.php",
+		"/var/www/html/marostack/web/.htaccess",
+		"/var/www/html/marostack/yii",
+		"/home/mehdi/Office/brik/coursv1/convert.cgi",
+		"/home/mehdi/Office/brik/coursv1/test.html",
+		"/home/mehdi/Office/marostack/redsun/index.html",
+		"/home/mehdi/Office/marostack/redsun/redsun-lean.css",
+		"/home/mehdi/Office/brik/coursv1/debug.log",
+		"/home/mehdi/Office/mup/footer.tpl",
+		"/home/mehdi/Office/mup/homepage.tpl",
+		"/home/mehdi/Office/archive/siteweb_longometal/business_design_2007/index.html",
+		"/home/mehdi/Office/brik/index.html",
+		"/home/mehdi/Office/brik/coursv1/example_frame.html",
+		"/home/mehdi/Office/brik/coursv1/index.html",
+		"/home/mehdi/Office/brik/coursv1/example.html",
+		"/home/mehdi/Office/mup/contact.tpl",
+		"/home/mehdi/Office/mup/twitter.js",
+		"/home/mehdi/Office/mup/header.tpl",
+		"/home/mehdi/Office/bernoussi/boot/css/bootstrap-theme.min.css",
+		"/home/mehdi/Office/bernoussi/index.html",
+		"/home/mehdi/Office/bernoussi/html5up-landed/index.html",
+		"/home/mehdi/Office/mup/french.php",
+		"/home/mehdi/Office/mup/premium_comparison/css/style.css",
+		"/home/mehdi/Office/mup/six/css/styles.css",
+		"/home/mehdi/Office/mup/six/homepage.tpl",
+		"/home/mehdi/path.php",
+		"/home/mehdi/Office/mup/cart_mup/addons.tpl",
+		"/home/mehdi/Office/mup/cart_mup/adddomain.tpl",
+		"/home/mehdi/Office/mup/cart_mup/login.tpl",
+		"/home/mehdi/Office/mup/cart_mup/configureproduct.tpl",
+		"/home/mehdi/Office/mup/cart_mup/products.tpl",
+		"/home/mehdi/Office/mup/cart_mup/configureproductdomain.tpl",
+		"/home/mehdi/Office/mup/six/domainchecker.tpl",
+		"/home/mehdi/Office/mup/six/includes/navbar.tpl",
+		"/home/mehdi/Office/mup/six/header.tpl",
+		"/home/mehdi/Office/mup/six/includes/sidebar.tpl",
+		"/home/mehdi/Office/mup/six/includes/pwstrength.tpl",
+		"/home/mehdi/Office/mup/six/includes/panel.tpl",
+		"/home/mehdi/Office/mup/six/includes/modal.tpl",
+		"/home/mehdi/Office/mup/six/includes/captcha.tpl",
+		"/home/mehdi/Office/mup/six/includes/breadcrumb.tpl",
+		"/home/mehdi/Office/mup/six/includes/head.tpl",
+		"/home/mehdi/Office/mup/six/includes/alert.tpl",
+		"/home/mehdi/Office/mup/six/includes/tablelist.tpl",
+		"/home/mehdi/Office/mup/six/includes/subheader.tpl",
+		"/home/mehdi/Office/mup/six/includes/pageheader.tpl",
+		"/home/mehdi/Office/mup/standard_cart/configureproduct.tpl",
+		"/home/mehdi/Office/mup/premium_comparison/products.tpl",
+		"/home/mehdi/Office/mup/bulkdomainchecker.tpl",
+		"/home/mehdi/Office/mup/standard_cart/configuredomains.tpl",
+		"/home/mehdi/Office/mup/standard_cart/common.tpl",
+		"/home/mehdi/Office/mup/standard_cart/complete.tpl",
+		"/home/mehdi/Office/mup/standard_cart/products.tpl",
+		"/home/mehdi/Office/mup/standard_cart/sidebar-categories.tpl",
+		"/home/mehdi/Office/MUP/header.tpl",
+		"/home/mehdi/Office/mp_theme/default/homepage.tpl",
+		"/home/mehdi/Office/configuration.php",
+		"/home/mehdi/Office/MUP/homepage.tpl",
+		"/home/mehdi/bernoussi/html5up-landed/index.html",
+		"/home/mehdi/Office/MUP/includes/navbar.tpl",
+		"/home/mehdi/Office/MUP/index.php",
+		"/var/www/html/WSPAB/client.php",
+		"/home/mehdi/logometal-armatures/entreprise.html",
+		"/home/mehdi/logometal-armatures/reference.html",
+		"/home/mehdi/logometal-armatures/recrutement.html",
+		"/home/mehdi/logometal-armatures/armatures-standard.html",
+		"/home/mehdi/logometal-armatures/armatures-sur-plan.html",
+		"/home/mehdi/logometal-armatures/pose.html",
+		"/home/mehdi/logometal-armatures/index.html",
+		"/home/mehdi/logometal-armatures/canva.html",
+		"/var/www/html/sitemk/index.html",
+		"/var/www/html/sitemk/services.html",
+		"/var/www/html/sigecom/send.php",
+		"/var/www/html/sigecom/contactezns.html",
+		"/home/mehdi/series",
+		"/home/mehdi/Downloads/ARIADIS.xml",
+		"/home/mehdi/Downloads/PAB.xml",
+		"/home/mehdi/logometal-armatures/css/bootstrap-theme.css",
+		"/home/mehdi/logometal-armatures/css/custom.css",
+		"/home/mehdi/Office/mp_theme/orderforms/cart/adddomain.tpl",
+		"/home/mehdi/Office/mp_theme/orderforms/cart/configureproductdomain.tpl",
+		"/home/mehdi/Office/mp_theme/default/supportticketslist.tpl",
+		"/home/mehdi/Office/mp_theme/default/clientareadomaindns.tpl",
+		"/home/mehdi/Office/newversion/bootwhmcs/header.tpl",
+		"/home/mehdi/Office/mp_theme/default/viewticket.tpl",
+		"/home/mehdi/Office/mp_theme/default/supportticketsubmit-stepone.tpl",
+		"/home/mehdi/Office/mp_theme/default/bulkdomainmanagement.tpl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/mehdi/Office/mp_theme/default",
+			"/home/mehdi/Office/mp_theme/orderforms/cart",
+			"/home/mehdi/Office/mp_theme/default",
+			"/home/mehdi/Office/mp_theme/orderforms/cart"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-family: ",
+			"font-family:",
+			" width:300px; ",
+			" cannot be blank.",
+			"btn",
+			"jumbotron",
+			"contact",
+			"dourl",
+			"6",
+			"\"></",
+			"#337ab7",
+			"XXX",
+			"Base de connaissances",
+			"price-table",
+			"Commander maintenant",
+			"006687",
+			"4a92b7",
+			"006699",
+			"top-head",
+			"ACHETER UN DOMAINE?",
+			"domain-checker-container",
+			"annually",
+			"/",
+			"year",
+			"cycle",
+			"cycleText",
+			"countyr",
+			"Use",
+			"9401",
+			"caption",
+			"width: 75%; height: 75%; ",
+			"empty",
+			"isset",
+			" ▬▬▬▬▬▬▬ ",
+			"▬▬▬▬▬▬▬ ",
+			"▬▬▬▬▬▬▬",
+			"plan",
+			"><",
+			"lead",
+			"li",
+			">\n",
+			"<span class=\"glyphicon glyphicon-ok\" aria-hidden=\"true\">",
+			"</li>",
+			"<li class=\"list-group-item\">",
+			"<li",
+			"Un nom de domaine, ça change rarement apres, car ça devient une référence.\nIl doit avoir une certain symenthique, ex \"beladizina.com\"\nAvoir entre 6 et 10 lettres, avec un seul tiré si cela est inévitable.\nContenir des mot clé peut aider a mieu se retrouver sur les page de recherche de duckduckgo, Google, Yahoo.\nIl doit faire un \"beau sonore\", aucun lacune a l'exprimer, teste le avec un enfant de 4~5 ans s'il peut bien le dire, le plus il trouve des difficultés, le plus vos visiteurs auront d'effort a faire pour le mémorisé.\nRespecter un certain rythme sylabe/voyelle/sylabe/voyelle/sylabe/voyelle...,  c'est toujours parfait.\nEvité les lettres comme \"Y\", \"H\", le \"S\" en fin du pluriels.\nLe modele des noms composite comme les compositions chimique \"oxcarbazepine.com\". ",
+			"Un nom de domaine, ça change rarement apres, car ça devient une référence.",
+			"<div class=\"col-md",
+			"multicol",
+			"<th",
+			"7",
+			"<div class=\"col-md-4\">\n\n  </div>",
+			"small",
+			" font-weight:bold",
+			"<span",
+			"h5",
+			"h2",
+			"h3",
+			"  <p>\n    <input type=\"button\" value=\"{$LANG.clientareabacklink}\" class=\"btn\" onclick=\"window.location='supporttickets.php'\" />\n    <input type=\"button\" value=\"{$LANG.supportticketsreply}\" class=\"btn btn-primary\" onclick=\"jQuery('#replycont').slideToggle()\" />{if $showclosebutton}\n    <input type=\"button\" value=\"{$LANG.supportticketsclose}\" class=\"btn btn-danger\" onclick=\"window.location='{$smarty.server.PHP_SELF}?tid={$tid}&amp;c={$c}&amp;closeticket=true'\" />{/if}\n  </p>",
+			"h1",
+			" class=\"media-heading\"",
+			"LANG",
+			"h4 class=\"media-heading\">{$",
+			" class=\"media-heading\"",
+			"2",
+			"renew",
+			"</strong>",
+			"</p>",
+			"h4",
+			"alert alert-success alert-dismissable",
+			"autorenew",
+			"h1",
+			"modal-modulechangepassword",
+			"\"",
+			"replace",
+			"moduleclientarea",
+			"strong",
+			" text-center\">",
+			"strong",
+			">{$",
+			"<br>",
+			"1",
+			"</h4>",
+			"<h4>",
+			"col2half",
+			"disable",
+			"way",
+			" for=\"inputEmail3\"",
+			"pwstrength",
+			"showpsws",
+			"showStrengthBar",
+			"Modifier le mot de passe",
+			">\n",
+			" type=\"text\"",
+			"form-control",
+			"checkbox",
+			"voir &",
+			"if !",
+			"»",
+			"«",
+			"Cycle de facturation",
+			"Confidentialité des propriétés de domaine",
+			"div",
+			"</div>",
+			"cartbox",
+			"associer",
+			"lg",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#003D77",
+			"",
+			"col-md-6",
+			"",
+			" type=\"text\" class=\"form-control\"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5608,
+								5608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "optimisation_de_la_fonction_juridique.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "presentation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "conformite_audit_juridique.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7479,
+								7479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "conseil_juridique.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "corporate_actes_juridiques.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "droit_du_travail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "formations.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5787,
+								5787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bernoussi.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"accordion-toggle"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
