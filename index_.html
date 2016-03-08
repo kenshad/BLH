@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,6 +9,22 @@
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Muli';
+    }
+    p, div {
+      font-family: 'Muli';
+    }
+    #home {
+      width: 0;
+      height: 0;
+      border-top: 100% solid red;
+      border-left: 100% solid transparent;
+
+    }
+  </style>
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -40,7 +56,7 @@
             }
           </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-          
+
         </div>
       </div>
       <nav class="navbar navbar-default">
@@ -55,12 +71,12 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-<!--               <li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> ACCUEIL</a></li> -->
-              <li class="dropdown">
+              <!--              <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> ACCUEIL</a></li> -->
+              <li class="dropdown active">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> ACCUEIL <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="mot_du_fondateur.html"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> Mot du fondateur</a></li>
-                  <li><a href="index.html"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> Présentation</a></li>
+                  <li class="active"><a href="index.html"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> Présentation</a></li>
                 </ul>
               </li>
               <li class="dropdown">
@@ -75,35 +91,26 @@
                 </ul>
               </li>
               <li><a href="formations.html"><span class="glyphicon glyphicon-education" aria-hidden="true"></span> FORMATIONS</a></li>
-
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li class="active"><a href="contact.html"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> CONTACT</a></li>
+              <li><a href="contact.html"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> CONTACT</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
       </nav>
-      <div class="content panel panel-default" style="padding:25px 10px;">
-        <!-- Main component for a primary marketing message or call to action -->
+      <div class="content panel panel-default" style="padding:40px 10px;">
         <div class="row">
-          <div class="col-md-10 col-md-offset-1 text-right">
-            <div class="page-header text-primary">
-              <h1 style="font-size: 18px;">CONTACT</h1>
-            </div>
-          </div>
-          <div class="col-md-6 text-primary" style="padding:0px 3%">
-            <br /><br />
-            <div class="lead text-primary text-center">
-              Merci, Votre message a été bien envoyer !
-            </div>
-          </div>
-          <div class="col-md-6 text-primary" style="padding:0px 3%">
-            <div class="lead text-muted">
-              17, Rue Ibnou Khalikane,<br />
-              9ème étage, porte 42, CP 20340,<br />Casablanca, Maroc.<br />
-              Tél.: +212 6 62 72 53 43<br />
-              <a class="text-muted" href="mailto:contact@bernoussilegalhelp.com">contact@bernoussilegalhelp.com</a><br />
-            </div>
+          <div class="col-md-12 text-primary" style="padding:0px 3%">
+            <p>
+              <div style="border-left:20px solid #002c56; padding : 0px 5px; margin:10px 15px 15px; font-size:24px;">
+                <strong>BERNOUSSI LEGAL HELP (BLH)</strong><br />
+                Un conseil sur mesure, aux meilleurs standards
+              </div>
+              <p class="text-muted lead" style="margin-bottom:20px"><strong>BERNOUSSI LEGAL HELP</strong> Situé en plein centre de Casablanca, le cabinet est équipé des <strong>technologies</strong> de l’information les plus <strong>modernes.</strong></p> 
+              <p class="text-muted lead">
+                Nous sommes très attentifs à offrir la plus <strong>grande réactivité</strong> possible à nos clients, notamment à travers le <strong>travail en ligne</strong>. Nous sommes également équipés pour le <strong>travail en régie</strong>, directement dans vos services, pour un service parfaitement <strong>dimensionné</strong> et <strong>personnalisé</strong>. Mais, avant tout, la fondatrice de BLH tient particulièrement à proposer un <strong>conseil</strong> conçu pour vous <strong>intuitu personæ</strong>.
+              </p>
+            </p>
           </div>
         </div>
       </div>
@@ -112,42 +119,20 @@
           <div class="panel-body">
             <div class="content-fluid">
               <div class="row">
-<!--                   <div class="col-md-6 col-xs-6">
-                    <ul>
-                      <li class="title">Legal Services</li>
-                      <li><a href="#" title="Lawyers, Law Firms Worldwide">Law Firms</a></li>
-                      <li><a href="#" title="Expert Witnesses">Expert Witnesses</a></li>
-                      <li><a href="#" title="Court Reporters">Court Reporters</a></li>
-                      <li><a href="#" title="Process Server">Process Servers</a></li>
-                      <li><a href="#" title="Investigator">Investigators</a></li>
-                    </ul>
-                  </div>
-                  <div class="col-md-6 col-xs-6">
-                    <ul class="xs">
-                      <li class="title">BernoussiLegalHelp.com</li>
-                      <li><a href="#" title="">About Us</a></li>
-                      <li><a href="#" title="">Terms and Conditions</a></li>
-                      <li><a href="#" title="">Privacy Policy</a></li>
-                      <li><a href="#" title="">Site Map</a></li>
-                      <li><a href="#" title="">Contact Us</a></li>
-                    </ul>
-                  </div> -->
-                  <div class="col-md-12 col-xs-12 text-center">
-                    <small><a href="http://www.bernoussilegalhelp.com">bernoussilegalhelp.com</a>  &copy 2015 All Rights Reserved - <a role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Mention légale</a> </small>
-                    <div class="collapse" id="collapseExample" style="margin-top:20px">
-                      <div class="well">
-                        Conformément à la loi 09-08, le client/l’utilisateur du service proposé par ce site, dispose d’un droit d’accès, de rectification et d’opposition aux traitements de ses données personnelles.
-                      </div>
+                <div class="col-md-12 col-xs-12 text-center">
+                  <small><a href="http://www.bernoussilegalhelp.com">bernoussilegalhelp.com</a>  &copy 2015 All Rights Reserved<br /><hr />
+                    <div class="text-center">
+                      Bernoussi Legal Help (SARL AU), 17 Rue khalikane, Etg 9, Porte 42, 22500 Casablanca Anfa | RC 343261 Casablanca, Patente : 34794102, IF : 18732947, CNSS : 4768092<br />
+                      Mention légale : Conformément à la loi 09-08, le client/l’utilisateur du service proposé par ce site, dispose d’un droit d’accès, de rectification et d’opposition aux traitements de ses données personnelles.
                     </div>
                   </div>
                 </div>
-              </div>
-            </footer>
-          </div>
+              </footer>
+            </div>
 
-          <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-          <!-- Include all compiled plugins (below), or include individual files as needed -->
-          <script src="js/bootstrap.min.js"></script>
-        </body>
-        </html>
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <!-- Include all compiled plugins (below), or include individual files as needed -->
+            <script src="js/bootstrap.min.js"></script>
+          </body>
+          </html>
